@@ -5,8 +5,8 @@ To get a local copy up and running follow these simple example steps.
 Make sure Node.js is running on your local machine
 
 ## Setup
-$ git clone https://github.com/acushlakoncept/crown-clothing.git
-$ cd crown-clothing
+$ git clone ``https://github.com/bmuhamood/hackernews-clone-react-app.git``
+$ cd hackernews-clone-react-app
 
 ## Install modules for server and client app:
 
